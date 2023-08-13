@@ -14,7 +14,7 @@ Fonctionne avec Bukkit, Spigot et Paper 1.8-1.12.
 
 ## En quoi consiste ce plugin ?
 
-Ce programme propose une revisite simpliste pour Utaria du célèbre jeu SkyPvP créé par https://www.minecraftzocker.net/ (merci à eux pour leur super serveur !) Il n'est qu'à un état de prototype et n'a jamais été finalisé / sorti.
+Ce programme propose une revisite simpliste pour Utaria du célèbre jeu SkyPvP créé par https://www.minecraftzocker.net/ (merci à eux pour leur super serveur !) Il n'est qu'à un état de prototype et n'a jamais été finalisé / sorti. Une présentation du rendu en jeu avait toutefois été faite sur YouTube : https://youtu.be/Tv_OdsDOgv8?t=1668
 
 Voici les quelques fonctionnalités que propose ce plugin :
 
