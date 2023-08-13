@@ -1,0 +1,9 @@
+name: SkyPvp
+author: Utarwyn
+version: 1.0
+main: fr.utarwyn.skypvp.SkyPvp
+depend: [UtariaAPI]
+commands:
+  spawn:
+    description: "Permet d'aller au spawn"
+    usage: "Utilisation: /spawn"

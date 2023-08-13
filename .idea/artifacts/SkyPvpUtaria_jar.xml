@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkyPvpUtaria.jar">
+    <output-path>M:/Jeux/minecraft/Utaria/serveurs/skypvp/plugins</output-path>
+    <root id="archive" name="SkyPvpUtaria.jar">
+      <element id="module-output" name="SkyPvpUtaria" />
+    </root>
+  </artifact>
+</component>
